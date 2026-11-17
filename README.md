@@ -80,6 +80,8 @@ Requisitos:
 - retornar ao vermelho depois do amarelo;
 - permitir somente uma mudança por acionamento;
 - mostrar o estado atual no Monitor Serial.
+- Plataforma: Tinkercad
+- Link: https://www.tinkercad.com/things/2S6YrkmJKwb/editel
 
 Código: `atividade-1.ino`
 
